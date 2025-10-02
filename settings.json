@@ -30,14 +30,14 @@
     },
 
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 120,
 
       "messages": [
-        "I'm a regular player",
-        "Subscibe To Tyrox!",
-        "I Like to Play Minecraft!"
+        "Fuh yea! Gotta keep jumping..",
+        "I'm tired...",
+        "Jumping, Jumping.. And jumping?"
       ]
     },
 
