@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "Coolgamer123", 
+    "username": "gngimsotuff", 
     "password": "",
     "type": "offline"
   },
@@ -32,12 +32,12 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 180,
 
       "messages": [
-        "Fuh yea! Gotta keep jumping..",
-        "I'm tired...",
-        "Jumping, Jumping.. And jumping?"
+        "Yo anyone here?",
+        "Brb... or maybe not?",
+        "Man it's so quiet in here lol."
       ]
     },
 
